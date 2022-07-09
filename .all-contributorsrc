@@ -1,0 +1,42 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vanevery",
+      "name": "Shawn Van Every",
+      "avatar_url": "https://avatars.githubusercontent.com/u/431774?v=4",
+      "profile": "http://www.walking-productions.com/notslop/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kaganjd",
+      "name": "Jen Kagan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9204835?v=4",
+      "profile": "https://github.com/kaganjd",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tigoe",
+      "name": "Tom Igoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/380575?v=4",
+      "profile": "https://github.com/tigoe",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "p5-serial.github.io",
+  "projectOwner": "p5-serial",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
