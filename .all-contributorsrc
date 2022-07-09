@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "vanevery",
+      "name": "Shawn Van Every",
+      "avatar_url": "https://avatars.githubusercontent.com/u/431774?v=4",
+      "profile": "http://www.walking-productions.com/notslop/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "p5-serial.github.io",
+  "projectOwner": "p5-serial",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
