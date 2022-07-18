@@ -18,7 +18,7 @@ The p5-serial project is made up of these 3 repositories:
 
 There are two main websites:
 
-- [https://p5-serial.github.io/](https://p5-serial.github.io/): organization website, made with Markdown and GitHub Pages, with this READMe.
+- [https://p5-serial.github.io/](https://p5-serial.github.io/): organization website, made with Markdown and GitHub Pages.
 - [https://p5-serial.github.io/p5.serialport/](https://p5-serial.github.io/p5.serialport/): docs/ folder of the p5.serialport repository, built with JSDoc form the source code.
 
 ## Contributors ✨
