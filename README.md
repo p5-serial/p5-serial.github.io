@@ -1,9 +1,25 @@
 # p5-serial.github.io
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Website for p5-serial and documentation
+
+## Repositories
+
+The p5-serial project is made up of these 3 repositories:
+
+- [https://github.com/p5-serial/p5-serial.github.io](https://github.com/p5-serial/p5-serial.github.io)
+- [https://github.com/p5-serial/p5.serialport](https://github.com/p5-serial/p5.serialport)
+- [https://github.com/p5-serial/p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol)
+
+There are two main websites:
+
+- [https://p5-serial.github.io/](https://p5-serial.github.io/): organization website, made with Markdown and GitHub Pages, with this READMe.
+- [https://p5-serial.github.io/p5.serialport/](https://p5-serial.github.io/p5.serialport/): docs/ folder of the p5.serialport repository, built with JSDoc form the source code.
 
 ## Contributors ✨
 
