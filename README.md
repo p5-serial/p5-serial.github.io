@@ -6,9 +6,11 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This is the homepage for the p5-serial project and its documentation.
+## About
 
-## Repositories
+This repository is part of the p5-serial project, created in 2015 at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) by [Shawn van Every](https://github.com/vanevery/), [Jen Kagan](https://github.com/kaganjd), and [Tom Igoe](https://github.com/tigoe). For more info please visit the repository at https://github.com/p5-serial/p5.serial.github.io/
+
+## Structure
 
 The p5-serial project is made up of these 3 repositories:
 
