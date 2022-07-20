@@ -6,15 +6,15 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Website for p5-serial and documentation
+This is the homepage for the p5-serial project and its documentation.
 
 ## Repositories
 
 The p5-serial project is made up of these 3 repositories:
 
-- [https://github.com/p5-serial/p5-serial.github.io](https://github.com/p5-serial/p5-serial.github.io)
-- [https://github.com/p5-serial/p5.serialport](https://github.com/p5-serial/p5.serialport)
-- [https://github.com/p5-serial/p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol)
+- [https://github.com/p5-serial/p5-serial.github.io](https://github.com/p5-serial/p5-serial.github.io): this repository, with info about the contributions, articles, and an overview of the project.
+- [https://github.com/p5-serial/p5.serialport](https://github.com/p5-serial/p5.serialport): the main library of the project.
+- [https://github.com/p5-serial/p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol): a desktop app for use with p5.serialport, built with Electorn.
 
 There are two main websites:
 
