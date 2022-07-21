@@ -58,6 +58,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "lisajamhoury",
+      "name": "Lisa Jamhoury",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7552772?v=4",
+      "profile": "http://lisajamhoury.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
