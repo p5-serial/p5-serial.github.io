@@ -1,7 +1,7 @@
 # p5-serial.github.io
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About
@@ -37,6 +37,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.wenqi.li"><img src="https://avatars.githubusercontent.com/u/22087042?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wenqi Li</b></sub></a><br /><a href="https://github.com/p5-serial/p5-serial.github.io/commits?author=wenqili" title="Code">💻</a></td>
     <td align="center"><a href="http://montoyamoraga.io"><img src="https://avatars.githubusercontent.com/u/3926350?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aarón montoya-moraga</b></sub></a><br /><a href="https://github.com/p5-serial/p5-serial.github.io/commits?author=montoyamoraga" title="Code">💻</a></td>
     <td align="center"><a href="http://lisajamhoury.com"><img src="https://avatars.githubusercontent.com/u/7552772?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lisa Jamhoury</b></sub></a><br /><a href="https://github.com/p5-serial/p5-serial.github.io/commits?author=lisajamhoury" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://lachlanjc.com"><img src="https://avatars.githubusercontent.com/u/5074763?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lachlan Campbell</b></sub></a><br /><a href="https://github.com/p5-serial/p5-serial.github.io/commits?author=lachlanjc" title="Code">💻</a></td>
   </tr>
 </table>
 
