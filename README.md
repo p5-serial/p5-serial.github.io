@@ -1,25 +1,29 @@
 # p5-serial.github.io
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About
 
-This repository is part of the p5-serial project, created in 2015 at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) by [Shawn van Every](https://github.com/vanevery/), [Jen Kagan](https://github.com/kaganjd), and [Tom Igoe](https://github.com/tigoe). For more info please visit the repository at https://github.com/p5-serial/p5.serial.github.io/
+This repository is part of the p5-serial project, created in 2015 at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) by [Shawn van Every](https://github.com/vanevery/), [Jen Kagan](https://github.com/kaganjd), and [Tom Igoe](https://github.com/tigoe).
+
+As of 2022, this project has been supported by the following grants:
+
+- 2019 Google Summer of Code, grant awarded to Jiwon Shin and mentored by Shawn van Every, summary here https://medium.com/processing-foundation/updating-and-improving-p5-serial-9e38f70946ba
+- 2022 Processing Fellowship, grant awarded to Aarón Montoya-Moraga and mentored by Shawn van Every.
 
 ## Structure
 
-The p5-serial project is made up of these 3 repositories:
+The p5-serial project's repositories are part of the GitHub organization at https://github.com/p5-serial, which includes these 5 repositories:
 
-- [https://github.com/p5-serial/p5-serial.github.io](https://github.com/p5-serial/p5-serial.github.io): this repository, with info about the contributions, articles, and an overview of the project.
-- [https://github.com/p5-serial/p5.serialport](https://github.com/p5-serial/p5.serialport): the main library of the project.
-- [https://github.com/p5-serial/p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol): a desktop app for use with p5.serialport, built with Electorn.
-
-There are two main websites:
-
-- [https://p5-serial.github.io/](https://p5-serial.github.io/): organization website, made with Markdown and GitHub Pages.
-- [https://p5-serial.github.io/p5.serialport/](https://p5-serial.github.io/p5.serialport/): docs/ folder of the p5.serialport repository, built with JSDoc form the source code.
+- https://github.com/p5-serial/p5-serial.github.io: this repository, with info about the contributions, articles, and an overview of the project.
+- https://github.com/p5-serial/p5.serialport: the client side library of the project.
+- https://github.com/p5-serial/p5.serialserver: the server side library of the project.
+- https://github.com/p5-serial/p5.serialcontrol: a desktop app that runs a p5.serialserver for use with p5.serialport, built with Electron.
+- https://github.com/p5-serial/p5-serial-template: a starter template for doing a project with p5-serial.
 
 ## Contributors ✨
 
