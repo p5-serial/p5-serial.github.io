@@ -10,20 +10,33 @@
 
 This repository is part of the p5-serial project, created in 2015 at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) by [Shawn van Every](https://github.com/vanevery/), [Jen Kagan](https://github.com/kaganjd), and [Tom Igoe](https://github.com/tigoe).
 
-As of 2022, this project has been supported by the following grants:
+## Scope
 
-- 2019 Google Summer of Code, grant awarded to Jiwon Shin and mentored by Shawn van Every, summary here https://medium.com/processing-foundation/updating-and-improving-p5-serial-9e38f70946ba
-- 2022 Processing Fellowship, grant awarded to Aarón Montoya-Moraga and mentored by Shawn van Every.
+This project is a beginner-friendly library for adding [serial communication](https://en.wikipedia.org/wiki/Serial_communication) capabilities to projects using [p5.js](https://p5js.org/), that can run on any modern browser and.
+
+Similar projects with different scopes and strategies include [p5.webserial.js](https://github.com/gohai/p5.webserial/) and [p5.web-serial](https://github.com/ongzzzzzz/p5.web-serial).
+
+For a list of more p5.js libraries please visit [https://p5js.org/libraries/](https://p5js.org/libraries/).
 
 ## Structure
 
-The p5-serial project's repositories are part of the GitHub organization at https://github.com/p5-serial, which includes these 5 repositories:
+The p5-serial project's repositories are part of the GitHub organization at [https://github.com/p5-serial](https://github.com/p5-serial), which includes these 4 active repositories:
 
-- https://github.com/p5-serial/p5-serial.github.io: this repository, with info about the contributions, articles, and an overview of the project.
-- https://github.com/p5-serial/p5.serialport: the client side library of the project.
-- https://github.com/p5-serial/p5.serialserver: the server side library of the project.
-- https://github.com/p5-serial/p5.serialcontrol: a desktop app that runs a p5.serialserver for use with p5.serialport, built with Electron.
-- https://github.com/p5-serial/p5-serial-template: a starter template for doing a project with p5-serial.
+- [https://github.com/p5-serial/p5-serial.github.io](https://github.com/p5-serial/p5-serial.github.io): this repository, with info about the contributions, articles, and an overview of the project.
+- [https://github.com/p5-serial/p5.serialport](https://github.com/p5-serial/p5.serialport): the client side library of the project.
+- [https://github.com/p5-serial/p5.serialserver](https://github.com/p5-serial/p5.serialserver): the server side library of the project.
+- [https://github.com/p5-serial/p5-serial-template](https://github.com/p5-serial/p5-serial-template): a starter template for projects using p5-serial.
+
+Additionally, these are currently archived repositories:
+
+- [https://github.com/p5-serial/p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol): a desktop app that runs a p5.serialserver for use with a p5.serialport client, built with [Electron](https://www.electronjs.org/).
+
+## Grants awarded
+
+This project has been supported by the following grants:
+
+- 2019 Google Summer of Code, grant awarded to Jiwon Shin and mentored by Shawn van Every, summary [here](https://medium.com/processing-foundation/updating-and-improving-p5-serial-9e38f70946ba)
+- 2022 Processing Fellowship, grant awarded to Aarón Montoya-Moraga and mentored by Shawn van Every.
 
 ## Contributors ✨
 
