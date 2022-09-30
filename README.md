@@ -62,4 +62,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## Contributing
+
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+If you find a problem or want to propose an addition in any of our repositories, we ask you to please create an issue on the corresponding repository, following these guidelines:
+
+- Specifiy the serial device, computer, operating system you are using.
+- Specify the versions of the software you are using.
+- Include any other relevant info you think is important.
+
+If you want to work on an existing issue, we welcome pull requests!
