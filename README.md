@@ -10,7 +10,7 @@
 
 This repository is part of the p5-serial project, created in 2015 at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) by [Shawn van Every](https://github.com/vanevery/), [Jen Kagan](https://github.com/kaganjd), and [Tom Igoe](https://github.com/tigoe).
 
-This project is a beginner-friendly library for adding [serial communication](https://en.wikipedia.org/wiki/Serial_communication) capabilities to projects using [p5.js](https://p5js.org/), that can run on any modern browser and.
+This project is a beginner-friendly library for adding [serial communication](https://en.wikipedia.org/wiki/Serial_communication) capabilities to projects using [p5.js](https://p5js.org/), that can run on any modern browser.
 
 Similar projects with different scopes and strategies include [p5.webserial.js](https://github.com/gohai/p5.webserial/) and [p5.web-serial](https://github.com/ongzzzzzz/p5.web-serial).
 
