@@ -33,7 +33,7 @@ Additionally, these are currently archived repositories:
 This project has been supported by the following grants:
 
 - 2019 Google Summer of Code, grant awarded to Jiwon Shin and mentored by Shawn van Every, summary [here](https://medium.com/processing-foundation/updating-and-improving-p5-serial-9e38f70946ba)
-- 2022 Processing Fellowship, grant awarded to Aarón Montoya-Moraga and mentored by Shawn van Every.
+- 2022 Processing Fellowship, grant awarded to Aarón Montoya-Moraga and mentored by Shawn van Every, summary [here](https://medium.com/@ProcessingOrg/code-is-for-sharing-your-ideas-refactoring-and-development-for-p5-serial-with-aar%C3%B3n-683b5ca8e7b)
 
 ## Contributors ✨
 
